@@ -1,4 +1,4 @@
-# OOD-Combat-Game
+# OOD-Dungeon-Game
 A fighting game project to practice and study the use of design patterns and ood. 
 Written in C# and .NET. 
 The player can move through a dungeon, fight enemies, and collect items such as weapons, armor, and potions that affect combat.
